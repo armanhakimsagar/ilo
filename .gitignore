@@ -1,0 +1,17 @@
+/node_modules
+/public
+/public/hot
+/public/CaseFilingDoc
+/public/ComplianceDoc
+/public/storage
+/config/app.php
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+/nbproject/private/
